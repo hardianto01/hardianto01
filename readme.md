@@ -40,5 +40,13 @@
 </div>
 
 
+### 🔗 Monitored Services
+![Panel](https://status.truecolor.my.id/api/badge/1/uptime?label=Panel%20Uptime)
+![Wings](https://status.truecolor.my.id/api/badge/2/uptime?label=Wings%20Uptime)
+![Web App](https://status.truecolor.my.id/api/badge/3/uptime?label=Web%20Uptime)
+
+[Click to See](http://8.215.201.210:3001/status/uptime)
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/hardianto"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hardianto" /></a></p><br><br>
