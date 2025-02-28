@@ -45,7 +45,7 @@
 ![Wings](https://status.truecolor.my.id/api/badge/2/uptime?label=Wings%20Uptime)
 ![Web App](https://status.truecolor.my.id/api/badge/3/uptime?label=Web%20Uptime)
 
-[Click to See](http://8.215.201.210:3001/status/uptime)
+[Click to See](https://status.truecolor.my.id/status/uptime)
 
 
 <h3 align="left">Support:</h3>
