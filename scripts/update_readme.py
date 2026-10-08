@@ -48,6 +48,46 @@ def format_event(event):
         return f"- 🐛 {action.capitalize()} issue *{title}* on [`{repo_name}`]({repo_url}) `({created})`"
     return None
 
+def fetch_featured_repos():
+    url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+    req = urllib.request.Request(url, headers={"User-Agent": "GitHub-Action-Readme-Updater"})
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            repos = json.loads(resp.read().decode("utf-8"))
+            filtered = [
+                r for r in repos 
+                if not r.get("fork") 
+                and r.get("name") != USERNAME 
+                and r.get("name") != "lontara-lang"
+                and r.get("name") != "hardiantojek93"
+                and r.get("name") != "assets"
+                and not r.get("name").endswith("-template")
+            ]
+            # Prioritize flagship projects & stars first, then most recently active
+            filtered.sort(key=lambda x: (
+                x.get("name") == "cctv-gwej",
+                x.get("stargazers_count", 0),
+                bool(x.get("description")),
+                x.get("pushed_at", "")
+            ), reverse=True)
+            filtered = filtered[:4]
+
+            if not filtered:
+                return ""
+
+            lines = []
+            for i in range(0, len(filtered), 2):
+                chunk = filtered[i:i+2]
+                pins = "".join([
+                    f'  <a href="{r["html_url"]}"><img src="https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={r["name"]}&theme=tokyonight&hide_border=true" alt="{r["name"]}" /></a>\n'
+                    for r in chunk
+                ])
+                lines.append(f'<p align="center">\n{pins.rstrip()}\n</p>')
+            return "\n".join(lines)
+    except Exception as e:
+        print(f"Error fetching repos: {e}")
+        return ""
+
 def main():
     events = fetch_events()
     lines = []
@@ -61,30 +101,36 @@ def main():
         if len(lines) >= 6:
             break
 
-    if not lines:
-        print("No events formatted. Keeping existing readme.")
-        return
-
-    content_to_insert = "\n".join(lines)
-    print(f"Generated activities:\n{content_to_insert}")
-
     try:
         with open(README_PATH, "r", encoding="utf-8") as f:
             readme = f.read()
 
-        start_tag = "<!-- RECENT_ACTIVITY:START -->"
-        end_tag = "<!-- RECENT_ACTIVITY:END -->"
+        # Update Recent Activity
+        if lines:
+            content_activity = "\n".join(lines)
+            start_tag = "<!-- RECENT_ACTIVITY:START -->"
+            end_tag = "<!-- RECENT_ACTIVITY:END -->"
+            pattern = re.compile(rf"{re.escape(start_tag)}.*?{re.escape(end_tag)}", re.DOTALL)
+            replacement = f"{start_tag}\n{content_activity}\n{end_tag}"
+            if start_tag in readme and end_tag in readme:
+                readme = pattern.sub(replacement, readme)
+                print("Updated activity section.")
 
-        pattern = re.compile(rf"{re.escape(start_tag)}.*?{re.escape(end_tag)}", re.DOTALL)
-        replacement = f"{start_tag}\n{content_to_insert}\n{end_tag}"
+        # Update Featured Projects dynamically
+        featured_html = fetch_featured_repos()
+        if featured_html:
+            feat_start = "<!-- FEATURED_PROJECTS:START -->"
+            feat_end = "<!-- FEATURED_PROJECTS:END -->"
+            feat_pattern = re.compile(rf"{re.escape(feat_start)}.*?{re.escape(feat_end)}", re.DOTALL)
+            feat_replacement = f"{feat_start}\n{featured_html}\n{feat_end}"
+            if feat_start in readme and feat_end in readme:
+                readme = feat_pattern.sub(feat_replacement, readme)
+                print("Updated featured projects section dynamically.")
 
-        if start_tag in readme and end_tag in readme:
-            new_readme = pattern.sub(replacement, readme)
-            with open(README_PATH, "w", encoding="utf-8") as f:
-                f.write(new_readme)
-            print("Successfully updated readme.md!")
-        else:
-            print("Tags not found in readme.md.")
+        with open(README_PATH, "w", encoding="utf-8") as f:
+            f.write(readme)
+        print("Successfully written changes to readme.md!")
+
     except Exception as e:
         print(f"Error updating readme: {e}")
 
