@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I'm currently learning **Cloud Computing, DevOps, Framework, Laravel, Golang, Nodejs**
-- 👨‍💻 All of my projects are available at [Profile website](https://anto.is-a.dev)
+- 👨‍💻 All of my projects are available at [Profile website](https://hardianto01.github.io)
 - 💬 Ask me about **react, next.js, tailwindcss, laravel**
 - 📫 How to reach me **hardiantojek92@gmail.com**
 - ⚡ Fun fact **I like playing games, FPS, mobile games, and any PC games**
@@ -38,14 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardianto01&show_icons=true&locale=en&theme=default" alt="hardianto01's GitHub stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hardianto01&theme=default" alt="hardianto01's streak stats" />
 </div>
-
-
-### 🔗 Monitored Services
-![Panel](https://status.truecolor.my.id/api/badge/1/uptime?label=Panel%20Uptime)
-![Wings](https://status.truecolor.my.id/api/badge/2/uptime?label=Wings%20Uptime)
-![Web App](https://status.truecolor.my.id/api/badge/3/uptime?label=Web%20Uptime)
-
-[Click to See](https://status.truecolor.my.id/status/uptime)
 
 
 <h3 align="left">Support:</h3>
