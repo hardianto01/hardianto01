@@ -42,6 +42,16 @@
 
 ---
 
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <a href="https://github.com/hardianto01">
+    <img src="https://gitactivitygraph.dev.cv/graph?username=hardianto01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Hardianto's Activity Graph" />
+  </a>
+</p>
+
+---
+
 ### 📈 Metrics & Streak Status
 
 <p align="center">
