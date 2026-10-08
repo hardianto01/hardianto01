@@ -42,16 +42,6 @@
 
 ---
 
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/hardianto01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardianto01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Hardianto's Activity Graph" />
-  </a>
-</p>
-
----
-
 ### 📈 Metrics & Streak Status
 
 <p align="center">
