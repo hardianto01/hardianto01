@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Hardianto;Cloud+%26+DevOps+Engineer;Low-Resource+ARM64+Builder;Go+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Hardianto;Systems+%26+Cloud+Engineer;Low-Resource+ARM64+Builder;Go+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+Docker" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/71861395?v=4" alt="Hardianto" width="130" style="border-radius: 50%; border: 3px solid #38bdf8;" />
+  <img src="https://avatars.githubusercontent.com/u/71861395?v=4" alt="Hardianto" width="125" style="border-radius: 50%; border: 3px solid #38bdf8;" />
   <br />
   <p>
-    <a href="https://hardianto01.github.io/hardianto01/"><img src="https://img.shields.io/badge/Portfolio-hardianto01.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://hardianto01.github.io/hardianto01/"><img src="https://img.shields.io/badge/Live%20Portfolio-hardianto01.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <img src="https://komarev.com/ghpvc/?username=hardianto01&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Sulawesi%2C%20WITA-10b981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Timezone-WITA%20(UTC%2B8)-10b981?style=flat-square&logo=clock&logoColor=white" alt="Timezone" />
   </p>
 </div>
 
@@ -20,13 +20,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Focus & Capabilities
 
-- 🚀 Enthusiastic about **Systems Programming, Cloud Infrastructure, DevOps & Edge IoT**.
-- 💡 Experimenting with **Low-Resource ARM64 Linux SBCs (Armbian / S905X)** for private CCTV NVRs & home automation.
-- 🛠️ Currently building with **Golang, TypeScript, Svelte, Docker, Python & Linux Kernel tweaks**.
-- 🌐 Interactive Portfolio Dashboard: **[hardianto01.github.io/hardianto01](https://hardianto01.github.io/hardianto01/)**
-- 📫 Reach me: **[hardiantojek92@gmail.com](mailto:hardiantojek92@gmail.com)** or via **[WhatsApp](https://wa.me/6285173222764)**
+- 🖥️ **Low-Resource ARM64 Edge Computing**: Designing ultra-lightweight Linux daemons & services optimized to run within constrained memory footprints (< 2 GB RAM, S905X / Armbian).
+- 📹 **Zero-Cloud Video Surveillance**: Building self-hosted RTSP / ONVIF NVR hubs with motion detectors and automated Telegram event piping.
+- ⚡ **Event-Driven Bot Systems**: High-reliability automation pipelines (WhatsApp & Telegram) built for resilience and zero-downtime reconnection.
+- 🌐 **Interactive Portfolio**: **[hardianto01.github.io/hardianto01](https://hardianto01.github.io/hardianto01/)**
 
 ---
 
@@ -39,6 +38,18 @@
 - 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-03)`
 - 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-02)`
 <!-- RECENT_ACTIVITY:END -->
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardianto01/hardianto01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardianto01/hardianto01/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hardianto01/hardianto01/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
@@ -80,19 +91,20 @@
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Tech Stack by Architecture Domain
 
-<p align="center">
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://www.armbian.com/"><img src="https://img.shields.io/badge/ARM64-SBC-blue?style=for-the-badge&logo=arm&logoColor=white" alt="ARM64" /></a>
-</p>
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Core & Systems** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Edge & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux_ARM64-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Protocols & Streaming** | ![RTSP](https://img.shields.io/badge/RTSP%20%2F%20ONVIF-Video_Stream-blue?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-orange?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-Microservices-purple?style=flat-square) |
+| **Frontend & UI** | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
+---
+
+### 💡 Engineering Philosophy
+
+> *"Simplicity is a prerequisite for reliability. Efficiency on constrained hardware is an art."*
 
 ---
 
