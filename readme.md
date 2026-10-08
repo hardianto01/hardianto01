@@ -1,44 +1,113 @@
-# Hi 👋, I'm Hardianto
-
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/71861395" alt="Hardianto's profile picture" width="200" style="border-radius: 50%; border: 3px solid #0e75b6;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Hardianto;Cloud+%26+DevOps+Engineer;Low-Resource+ARM64+Builder;Go+%E2%80%A2+TypeScript+%E2%80%A2+Linux+%E2%80%A2+Docker" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hardianto01&label=Profile%20views&color=0e75b6&style=flat" alt="hardianto01" />
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/71861395?v=4" alt="Hardianto" width="130" style="border-radius: 50%; border: 3px solid #38bdf8;" />
+  <br />
+  <p>
+    <a href="https://hardianto01.github.io/hardianto01/"><img src="https://img.shields.io/badge/Portfolio-hardianto01.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <img src="https://komarev.com/ghpvc/?username=hardianto01&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Location-Sulawesi%2C%20WITA-10b981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hardianto01" alt="hardianto01" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hardianto01&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="hardianto01 trophies" />
   </a>
 </p>
 
-- 🌱 I'm currently learning **Cloud Computing, DevOps, Framework, Laravel, Golang, Nodejs**
-- 👨‍💻 All of my projects are available at [Profile website](https://hardianto01.github.io/hardianto01/)
-- 💬 Ask me about **react, next.js, tailwindcss, laravel**
-- 📫 How to reach me **hardiantojek92@gmail.com**
-- ⚡ Fun fact **I like playing games, FPS, mobile games, and any PC games**
+---
 
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hardianto01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardianto01" height="30" width="40" /></a>
-<a href="https://fb.com/antojago02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antojago02" height="30" width="40" /></a>
-<a href="https://instagram.com/hardianto02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardianto02_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hardianto01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hardianto01" height="30" width="40" /></a>
+- 🚀 Enthusiastic about **Systems Programming, Cloud Infrastructure, DevOps & Edge IoT**.
+- 💡 Experimenting with **Low-Resource ARM64 Linux SBCs (Armbian / S905X)** for private CCTV NVRs & home automation.
+- 🛠️ Currently building with **Golang, TypeScript, Svelte, Docker, Python & Linux Kernel tweaks**.
+- 🌐 Interactive Portfolio Dashboard: **[hardianto01.github.io/hardianto01](https://hardianto01.github.io/hardianto01/)**
+- 📫 Reach me: **[hardiantojek92@gmail.com](mailto:hardiantojek92@gmail.com)** or via **[WhatsApp](https://wa.me/6285173222764)**
+
+---
+
+### ⚡ Realtime Public Activity & Commits
+
+<!-- RECENT_ACTIVITY:START -->
+- 🚀 Pushed to [`hardianto01`](https://github.com/hardianto01/hardianto01): *commits* `(2026-10-08)`
+- ✨ Created branch on [`jamalify`](https://github.com/hardianto01/jamalify) `(2026-10-08)`
+- 🚀 Pushed to [`jamalify`](https://github.com/hardianto01/jamalify): *commits* `(2026-10-08)`
+- 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-03)`
+- 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-02)`
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <a href="https://github.com/hardianto01">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardianto01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Hardianto's Activity Graph" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### 📈 Metrics & Streak Status
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardianto01&show_icons=true&locale=en&layout=compact&theme=default" alt="hardianto01's most used languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardianto01&show_icons=true&locale=en&theme=default" alt="hardianto01's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hardianto01&theme=default" alt="hardianto01's streak stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardianto01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hardianto's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardianto01&theme=tokyonight&hide_border=true" alt="Hardianto's Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardianto01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/hardianto"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hardianto" /></a></p><br><br>
+---
+
+### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/hardianto01/cctv-gwej">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=cctv-gwej&theme=tokyonight&hide_border=true" alt="cctv-gwej" />
+  </a>
+  <a href="https://github.com/hardianto01/lontara-lang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=lontara-lang&theme=tokyonight&hide_border=true" alt="lontara-lang" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hardianto01/ai-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=ai-api&theme=tokyonight&hide_border=true" alt="ai-api" />
+  </a>
+  <a href="https://github.com/hardianto01/jamalify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=jamalify&theme=tokyonight&hide_border=true" alt="jamalify" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="center">
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://www.armbian.com/"><img src="https://img.shields.io/badge/ARM64-SBC-blue?style=for-the-badge&logo=arm&logoColor=white" alt="ARM64" /></a>
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/hardianto01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/6285173222764" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:hardiantojek92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/hardianto02_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://ko-fi.com/hardianto" target="_blank"><img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi" /></a>
+</p>

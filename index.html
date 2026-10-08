@@ -417,7 +417,7 @@
         let totalStars = 0;
         container.innerHTML = '';
 
-        const filtered = repos.filter(r => r.name !== 'hardianto01').slice(0, 6);
+        const filtered = repos.filter(r => !r.fork && r.name !== 'hardianto01').slice(0, 6);
         repos.forEach(r => { totalStars += (r.stargazers_count || 0); });
         document.getElementById('stat-stars').textContent = totalStars;
 

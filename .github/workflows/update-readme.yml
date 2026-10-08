@@ -1,0 +1,36 @@
+name: Update Readme Realtime Activity
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/update_readme.py'
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Readme Activity Updater
+        run: python scripts/update_readme.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add readme.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(readme): auto-update recent public activity" && git push)
