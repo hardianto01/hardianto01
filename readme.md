@@ -23,7 +23,6 @@
 ### 🚀 Currently
 
 - Building: `cctv-gwej`, a zero-cloud NVR for ARM64 single-board computers.
-- Exploring: `lontara-lang`, a programming language with Bugis-inspired logic and Lontara script.
 - Open to: systems, backend, and edge/IoT collaboration.
 
 ---
@@ -32,20 +31,17 @@
 
 <p align="center">
   <a href="https://github.com/hardianto01/cctv-gwej"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=cctv-gwej&theme=tokyonight&hide_border=true" alt="cctv-gwej" /></a>
-  <a href="https://github.com/hardianto01/lontara-lang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=lontara-lang&theme=tokyonight&hide_border=true" alt="lontara-lang" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/hardianto01/ai-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=ai-api&theme=tokyonight&hide_border=true" alt="ai-api" /></a>
-  <a href="https://github.com/hardianto01/canvas-hikki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=canvas-hikki&theme=tokyonight&hide_border=true" alt="canvas-hikki" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/hardianto01/canvas-hikki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=canvas-hikki&theme=tokyonight&hide_border=true" alt="canvas-hikki" /></a>
   <a href="https://github.com/hardianto01/GaG-whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=GaG-whatsapp-bot&theme=tokyonight&hide_border=true" alt="GaG-whatsapp-bot" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/hardianto01/jamalify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=jamalify&theme=tokyonight&hide_border=true" alt="jamalify" /></a>
 </p>
 
 **cctv-gwej**: NVR self-hosted untuk ARM64 dengan RAM di bawah 2 GB. Live view via WebRTC, deteksi gerak, dan alert Telegram. Stack: Svelte.
-
-**lontara-lang**: bahasa pemrograman open-source yang dibangun di atas Go, dengan logika bahasa Bugis dan penulisan aksara Lontara. Status: eksperimental.
 
 ---
 
