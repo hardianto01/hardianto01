@@ -58,7 +58,6 @@ def fetch_featured_repos():
                 r for r in repos 
                 if not r.get("fork") 
                 and r.get("name") != USERNAME 
-                and r.get("name") != "lontara-lang"
                 and r.get("name") != "hardiantojek93"
                 and r.get("name") != "assets"
                 and not r.get("name").endswith("-template")
@@ -70,7 +69,7 @@ def fetch_featured_repos():
                 bool(x.get("description")),
                 x.get("pushed_at", "")
             ), reverse=True)
-            filtered = filtered[:4]
+            filtered = filtered[:6]
 
             if not filtered:
                 return ""

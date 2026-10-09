@@ -12,32 +12,51 @@
   </p>
 </div>
 
+---
+
+### 👨‍💻 Engineering Focus
+
+- 🖥️ **Low-Resource ARM64 Edge Computing.** Lightweight Linux services tuned for under 2 GB RAM (S905X / Armbian).
+- 📹 **Self-Hosted Video Surveillance.** RTSP / ONVIF NVR hubs with motion detection and Telegram event alerts, no cloud required.
+- ⚡ **Event-Driven Bot Systems.** WhatsApp and Telegram automation built for reconnection and uptime.
+
+### 🚀 Currently
+
+- Building: `cctv-gwej`, a zero-cloud NVR for ARM64 single-board computers.
+- Exploring: `lontara-lang`, a programming language with Bugis-inspired logic and Lontara script.
+- Open to: systems, backend, and edge/IoT collaboration.
+
+---
+
+### 🌟 Featured Projects
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hardianto01&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="hardianto01 trophies" />
-  </a>
+  <a href="https://github.com/hardianto01/cctv-gwej"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=cctv-gwej&theme=tokyonight&hide_border=true" alt="cctv-gwej" /></a>
+  <a href="https://github.com/hardianto01/lontara-lang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=lontara-lang&theme=tokyonight&hide_border=true" alt="lontara-lang" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hardianto01/ai-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=ai-api&theme=tokyonight&hide_border=true" alt="ai-api" /></a>
+  <a href="https://github.com/hardianto01/canvas-hikki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=canvas-hikki&theme=tokyonight&hide_border=true" alt="canvas-hikki" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hardianto01/GaG-whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=GaG-whatsapp-bot&theme=tokyonight&hide_border=true" alt="GaG-whatsapp-bot" /></a>
+  <a href="https://github.com/hardianto01/jamalify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=jamalify&theme=tokyonight&hide_border=true" alt="jamalify" /></a>
 </p>
 
----
+**cctv-gwej**: NVR self-hosted untuk ARM64 dengan RAM di bawah 2 GB. Live view via WebRTC, deteksi gerak, dan alert Telegram. Stack: Svelte.
 
-### 👨‍💻 Engineering Focus & Capabilities
-
-- 🖥️ **Low-Resource ARM64 Edge Computing**: Designing ultra-lightweight Linux daemons & services optimized to run within constrained memory footprints (< 2 GB RAM, S905X / Armbian).
-- 📹 **Zero-Cloud Video Surveillance**: Building self-hosted RTSP / ONVIF NVR hubs with motion detectors and automated Telegram event piping.
-- ⚡ **Event-Driven Bot Systems**: High-reliability automation pipelines (WhatsApp & Telegram) built for resilience and zero-downtime reconnection.
-- 🌐 **Interactive Portfolio**: **[hardianto01.github.io/hardianto01](https://hardianto01.github.io/hardianto01/)**
+**lontara-lang**: bahasa pemrograman open-source yang dibangun di atas Go, dengan logika bahasa Bugis dan penulisan aksara Lontara. Status: eksperimental.
 
 ---
 
-### ⚡ Realtime Public Activity & Commits
+### 🛠️ Tech Stack
 
-<!-- RECENT_ACTIVITY:START -->
-- 🚀 Pushed to [`hardianto01`](https://github.com/hardianto01/hardianto01): *commits* `(2026-10-08)`
-- ✨ Created branch on [`jamalify`](https://github.com/hardianto01/jamalify) `(2026-10-08)`
-- 🚀 Pushed to [`jamalify`](https://github.com/hardianto01/jamalify): *commits* `(2026-10-08)`
-- 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-03)`
-- 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-02)`
-<!-- RECENT_ACTIVITY:END -->
+| Domain | Tools |
+| :--- | :--- |
+| **Languages** | Go, TypeScript, Python, Kotlin, Bash |
+| **Edge & Infra** | Linux ARM64, Docker, GitHub Actions, Nginx |
+| **Protocols** | RTSP / ONVIF, WebSockets, REST API |
+| **Frontend** | Svelte, Tailwind CSS, HTML5 |
 
 ---
 
@@ -51,69 +70,34 @@
   </picture>
 </p>
 
----
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/hardianto01">
-    <img src="https://gitactivitygraph.dev.cv/graph?username=hardianto01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Hardianto's Activity Graph" />
-  </a>
-</p>
 
 ---
 
-### 📈 Metrics & Streak Status
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardianto01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hardianto's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardianto01&theme=tokyonight&hide_border=true" alt="Hardianto's Streak" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardianto01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Hardianto's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardianto01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### 🌟 Featured Projects
-
-<!-- FEATURED_PROJECTS:START -->
-<p align="center">
-  <a href="https://github.com/hardianto01/cctv-gwej"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=cctv-gwej&theme=tokyonight&hide_border=true" alt="cctv-gwej" /></a>
-  <a href="https://github.com/hardianto01/ai-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=ai-api&theme=tokyonight&hide_border=true" alt="ai-api" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/hardianto01/canvas-hikki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=canvas-hikki&theme=tokyonight&hide_border=true" alt="canvas-hikki" /></a>
-  <a href="https://github.com/hardianto01/GaG-whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardianto01&repo=GaG-whatsapp-bot&theme=tokyonight&hide_border=true" alt="GaG-whatsapp-bot" /></a>
-</p>
-<!-- FEATURED_PROJECTS:END -->
+<!-- RECENT_ACTIVITY:START -->
+- 🚀 Pushed to [`hardianto01`](https://github.com/hardianto01/hardianto01): *commits* `(2026-10-08)`
+- ✨ Created branch on [`jamalify`](https://github.com/hardianto01/jamalify) `(2026-10-08)`
+- 🚀 Pushed to [`jamalify`](https://github.com/hardianto01/jamalify): *commits* `(2026-10-08)`
+- 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-03)`
+- 🚀 Pushed to [`cctv-gwej`](https://github.com/hardianto01/cctv-gwej): *commits* `(2026-10-02)`
+<!-- RECENT_ACTIVITY:END -->
 
 ---
-
-### 🛠️ Tech Stack by Architecture Domain
-
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Core & Systems** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Edge & Infrastructure** | ![Linux](https://img.shields.io/badge/Linux_ARM64-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **Protocols & Streaming** | ![RTSP](https://img.shields.io/badge/RTSP%20%2F%20ONVIF-Video_Stream-blue?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-orange?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-Microservices-purple?style=flat-square) |
-| **Frontend & UI** | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-
----
-
-### 💡 Engineering Philosophy
 
 > *"Simplicity is a prerequisite for reliability. Efficiency on constrained hardware is an art."*
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/hardianto01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/6285173222764" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:hardiantojek92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/hardianto02_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://ko-fi.com/hardianto" target="_blank"><img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi" /></a>
 </p>
