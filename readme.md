@@ -80,8 +80,6 @@
 - 🚀 Pushed to [`synogram`](https://github.com/hardianto01/synogram): *commits* `(2026-11-04)`
 - ⭐ Starred [`365-skills`](https://github.com/Agents365-ai/365-skills) `(2026-10-26)`
 - ⭐ Starred [`security-audit-skill`](https://github.com/cloudflare/security-audit-skill) `(2026-10-24)`
-- 🚀 Pushed to [`hardianto01`](https://github.com/hardianto01/hardianto01): *commits* `(2026-10-09)`
-- ⭐ Starred [`rea`](https://github.com/morluto/rea) `(2026-10-11)`
 <!-- RECENT_ACTIVITY:END -->
 
 ---
